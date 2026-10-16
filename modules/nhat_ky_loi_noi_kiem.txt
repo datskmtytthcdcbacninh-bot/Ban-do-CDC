@@ -1,0 +1,61 @@
+[09/10/2026 14:39:46] [LỖI KẾT NỐI SHEETS] Không thể đọc Sheets. Hãy đảm bảo File Sheets đã được Share 'Bất kỳ ai có liên kết' - Chi tiết: URL can't contain control characters. '/spreadsheets/d/1h3E_zwJ4Fu22el6Gl-z8xYooshzXYsewKwOEY_FNOKA/gviz/tq?tqx=out:csv&sheet=Form_Responses 1' (found at least ' ')
+[09/10/2026 14:43:53] [LỖI SHEETS] Không thể đọc Sheets. Nguyên nhân: Tên tab 'Form Responses 1' không đúng, hoặc file chưa Share 'Bất kỳ ai có liên kết'. - Chi tiết: URL can't contain control characters. '/spreadsheets/d/1h3E_zwJ4Fu22el6Gl-z8xYooshzXYsewKwOEY_FNOKA/gviz/tq?tqx=out:csv&sheet=Form Responses 1' (found at least ' ')
+[09/10/2026 14:46:11] [LỖI AI GROQ] Lỗi AI Groq: Error code: 400 - {'error': {'message': 'The model `llama-3.2-90b-vision-preview` has been decommissioned and is no longer supported. Please refer to https://console.groq.com/docs/deprecations for a recommendation on which model to use instead.', 'type': 'invalid_request_error', 'code': 'model_decommissioned'}}
+[09/10/2026 14:48:26] [LỖI AI GROQ] Lỗi AI Groq: Error code: 400 - {'error': {'message': 'The model `llama-3.2-90b-vision-preview` has been decommissioned and is no longer supported. Please refer to https://console.groq.com/docs/deprecations for a recommendation on which model to use instead.', 'type': 'invalid_request_error', 'code': 'model_decommissioned'}}
+[09/10/2026 15:21:35] [LỖI AI GROQ] Lỗi AI Groq: Error code: 400 - {'error': {'message': 'The model `llama-3.2-11b-vision-preview` has been decommissioned and is no longer supported. Please refer to https://console.groq.com/docs/deprecations for a recommendation on which model to use instead.', 'type': 'invalid_request_error', 'code': 'model_decommissioned'}}
+[09/10/2026 15:22:38] [LỖI AI GROQ] Lỗi AI Groq: Error code: 400 - {'error': {'message': 'The model `llama-3.2-11b-vision-preview` has been decommissioned and is no longer supported. Please refer to https://console.groq.com/docs/deprecations for a recommendation on which model to use instead.', 'type': 'invalid_request_error', 'code': 'model_decommissioned'}}
+[09/10/2026 15:24:21] [LỖI AI GROQ] Lỗi AI Groq: Error code: 404 - {'error': {'message': 'The model `llama-3.2-90b-vision-instruct` does not exist or you do not have access to it.', 'type': 'invalid_request_error', 'code': 'model_not_found'}}
+[09/10/2026 15:27:44] [LỖI AI GROQ] Lỗi AI Groq: Error code: 404 - {'error': {'message': 'The model `llama-3.2-90b-vision-instruct` does not exist or you do not have access to it.', 'type': 'invalid_request_error', 'code': 'model_not_found'}}
+[09/10/2026 16:02:30] [LỖI AI GROQ] Lỗi AI Groq: Error code: 404 - {'error': {'message': 'The model `llama-3.2-90b-vision-instruct` does not exist or you do not have access to it.', 'type': 'invalid_request_error', 'code': 'model_not_found'}}
+[09/10/2026 16:08:42] [LỖI SHEETS] Không thể đọc Sheets. Nguyên nhân: Tên tab 'Form Responses 1' không đúng, hoặc file chưa Share 'Bất kỳ ai có liên kết'. - Chi tiết: URL can't contain control characters. '/spreadsheets/d/1h3E_zwJ4Fu22el6Gl-z8xYooshzXYsewKwOEY_FNOKA/gviz/tq?tqx=out:csv&sheet=Form Responses 1' (found at least ' ')
+[09/10/2026 16:10:26] [LỖI ĐỊNH DẠNG FILE] File tải về không phải là ảnh hợp lệ: cannot identify image file <_io.BytesIO object at 0x00000268C7492C50>
+[09/10/2026 16:15:43] [LỖI AI GEMINI] Lỗi Google Gemini AI: 404 models/gemini-1.5-flash is not found for API version v1beta, or is not supported for generateContent. Call ModelService.ListModels to see the list of available models and their supported methods.
+[09/10/2026 16:17:15] [LỖI API GEMINI] Lỗi API Google: {
+  "error": {
+    "code": 404,
+    "message": "models/gemini-1.5-flash is not found for API version v1beta, or is not supported for generateContent. Call ModelService.ListModels to see the list of available models and their supported methods.",
+    "status": "NOT_FOUND"
+  }
+}
+
+[09/10/2026 16:18:55] [LỖI API GEMINI] Lỗi API Google: {
+  "error": {
+    "code": 404,
+    "message": "This model models/gemini-2.5-flash is no longer available to new users. Please update your code to use models/gemini-3.8-flash for the latest features and improvements. We recommend you to use the Interactions API (https://ai.google.dev/gemini-api/docs/get-started).",
+    "status": "NOT_FOUND"
+  }
+}
+
+[09/10/2026 16:25:38] [LỖI API GEMINI] Lỗi API Google: {
+  "error": {
+    "code": 400,
+    "message": "Unable to process input image. Please retry or report in https://developers.generativeai.google/guide/troubleshooting",
+    "status": "INVALID_ARGUMENT"
+  }
+}
+
+[09/10/2026 16:26:43] [LỖI API GEMINI] Lỗi API Google: {
+  "error": {
+    "code": 400,
+    "message": "Unable to process input image. Please retry or report in https://developers.generativeai.google/guide/troubleshooting",
+    "status": "INVALID_ARGUMENT"
+  }
+}
+
+[09/10/2026 16:31:26] [LỖI API GEMINI] Lỗi API Google: {
+  "error": {
+    "code": 400,
+    "message": "Unable to process input image. Please retry or report in https://developers.generativeai.google/guide/troubleshooting",
+    "status": "INVALID_ARGUMENT"
+  }
+}
+
+[09/10/2026 16:32:12] [LỖI API GEMINI] Lỗi API Google: {
+  "error": {
+    "code": 400,
+    "message": "Unable to process input image. Please retry or report in https://developers.generativeai.google/guide/troubleshooting",
+    "status": "INVALID_ARGUMENT"
+  }
+}
+
+[09/10/2026 16:32:47] [LỖI AI GEMINI] Lỗi AI Gemini SDK: 404 models/gemini-1.5-flash is not found for API version v1beta, or is not supported for generateContent. Call ModelService.ListModels to see the list of available models and their supported methods.
